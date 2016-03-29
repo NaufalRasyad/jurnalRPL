@@ -13,7 +13,7 @@ public class fibonaci {
     
 
     public void calculateFibonaci(int febCount){
-       	
+       	int abc = 200;
         int[] feb = new int[febCount];
         feb[0] = 0; 
         feb[1] = 1;
